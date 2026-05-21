@@ -1,6 +1,6 @@
 {
   "name": "froala/yii2-froala-editor",
-  "version": "33.3.3",
+  "version": "99.9.9",
   "description": "A beautiful WYSIWYG HTML text editor based on HTML5 technology. Cross browser, with mobile support, high performance and Retina Ready modern design.",
   "type": "yii2-extension",
   "keywords": [
